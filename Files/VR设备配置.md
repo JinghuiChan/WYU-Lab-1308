@@ -24,6 +24,5 @@
 | 13  |  定位器  |  · 电源适配器(2)   |
 | 14  |    |  · 安装工具包   |
 | 15  |    |  · 同步数据线   |
-| 16| ![测试](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/hp203dw.jpg)   |  ![测试](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/hp226dw.jpg)  |
 
 * ### VR设备安装教程
