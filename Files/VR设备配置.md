@@ -88,45 +88,43 @@
 
    * #### 体验测试
       * 启动 Vive 系统  
-   1.  在电脑上，打开 SteamVR 应用程序。
-   2. 确保定位器已接通电源。
-   3. 确保头戴式设备已通过串流盒连接到电脑上，具体步骤如下：  
-   ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A51.jpg)
+         1.  在电脑上，打开 SteamVR 应用程序。
+         2. 确保定位器已接通电源。
+         3. 确保头戴式设备已通过串流盒连接到电脑上，具体步骤如下：  
+         
+      ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A51.jpg)
 
       * 将头戴式设备连接到电脑  
-   1. 将电源适配器连接线连接到串流盒上对应的端口，然后将另外一端插入电源插座以开启串流盒。
-   2. 将 HDMI 连接线插入串流盒上的 HDMI 端口，然后将另外一端插入电脑显卡上的 HDMI 端口。
-   3. 将 USB 数据线插入串流盒上的 USB 端口，然后将另外一端插入电脑的 USB 端口。
-   4. 将头戴式设备三合一连接线（HDMI、USB 和电源）对准串流盒上的橙色面，然后插入。  
-   ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A52.jpg)
-   5.  要将串流盒固定于某处，可撕掉固定贴片上的贴纸，再将黏性一面牢牢贴于串流盒底部，然后将串流盒固定到所需的区域。  
-   ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A53.jpg)  
-   6. 启动操控手柄。如需详细信息，请参见 第 18 页的启动或关闭操控手柄。
-   7. 检查 Vive 硬件是否已被追踪到。SteamVR 应用程序中的状态图标以及硬件上的状态指示灯都应显示绿色。
-   8. 戴上头戴式设备（在戴上头戴式设备前，请确保已将镜头上的保护膜撕下。），详细步骤如下：   
-
+         1. 将电源适配器连接线连接到串流盒上对应的端口，然后将另外一端插入电源插座以开启串流盒。
+         2. 将 HDMI 连接线插入串流盒上的 HDMI 端口，然后将另外一端插入电脑显卡上的 HDMI 端口。
+         3. 将 USB 数据线插入串流盒上的 USB 端口，然后将另外一端插入电脑的 USB 端口。
+         4. 将头戴式设备三合一连接线（HDMI、USB 和电源）对准串流盒上的橙色面，然后插入。  
+         ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A52.jpg)
+         5.  要将串流盒固定于某处，可撕掉固定贴片上的贴纸，再将黏性一面牢牢贴于串流盒底部，然后将串流盒固定到所需的区域。  
+         ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A53.jpg)  
+         6. 启动操控手柄。如需详细信息，请参见 第 18 页的启动或关闭操控手柄。
+         7. 检查 Vive 硬件是否已被追踪到。SteamVR 应用程序中的状态图标以及硬件上的状态指示灯都应显示绿色。
+         8. 戴上头戴式设备（在戴上头戴式设备前，请确保已将镜头上的保护膜撕下。），详细步骤如下：
+         
       * 佩戴头戴设备  
-   1. 将头戴式设备向下戴到眼睛的位置。
-   2. 将滑带绕到头部后方并调整，以便头戴式设备贴合且舒适地固定于头部。
-   3. 确保线缆穿过头戴式设备背面的护套，并且垂挂于您的背后  
-   ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A54.jpg)  
-   4. 使用头戴式设备上的 IPD 旋钮，调整一个最舒适的镜头间距。（PS：大多数眼镜能够装入头戴式设备中。如果佩戴的验光眼镜尺寸较大，可调节镜头距离旋钮以扩大头戴式设备内部空间。）  
-   ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A55.jpg)  
-   
-      * 将USB 设备连接到头戴式设备  
+         1. 将头戴式设备向下戴到眼睛的位置。
+         2. 将滑带绕到头部后方并调整，以便头戴式设备贴合且舒适地固定于头部。
+         3. 确保线缆穿过头戴式设备背面的护套，并且垂挂于您的背后  
+         ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A54.jpg)  
+         4. 使用头戴式设备上的 IPD 旋钮，调整一个最舒适的镜头间距。（PS：大多数眼镜能够装入头戴式设备中。如果佩戴的验光眼镜尺寸较大，可调节镜头距离旋钮以扩大头戴式设备内部空间。）  
+         ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A55.jpg)
       
-   &#160; &#160; &#160; &#160;将 USB 数据线插入头戴式设备以便可以在 Vive 上使用兼容的第三方设备。专为 Vive 设计的 USB数据线由 HTC 另行销售。  
-   1. 按压打开舱盖便可使用头戴式设备上的接口槽。  
-   ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A56.jpg)  
-   2. 将 USB 数据线插入对应的插槽。  
-   ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A57.jpg)  
-   3. 将第三方设备连接到 USB 数据线另一端。
-   4.  装回舱盖。
-   5. 握住操控手柄。  
-   
- 要调出系统主控面板，可按下任一操控手柄上的系统按钮。  
- 
-  * 关闭 Vive 系统  
-  1. 按下系统按钮以调出系统主控面板。
-  2. 选择关闭按钮 。
-  3. 选择退出虚拟现实。（PS：头戴式设备和操控手柄将自动关闭，电脑上的 SteamVR 应用程序也会关闭。）
+      * 将USB 设备连接到头戴式设备  
+        1. 按压打开舱盖便可使用头戴式设备上的接口槽。  
+        ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A56.jpg)  
+        2. 将 USB 数据线插入对应的插槽。  
+        ![电缆连接](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/%E7%94%B5%E7%BC%86%E8%BF%9E%E6%8E%A57.jpg)  
+        3. 将第三方设备连接到 USB 数据线另一端。
+        4.  装回舱盖。
+        5. 握住操控手柄。 
+         
+     要调出系统主控面板，可按下任一操控手柄上的系统按钮。  
+      * 关闭 Vive 系统
+        1. 按下系统按钮以调出系统主控面板。
+        2. 选择关闭按钮 。
+        3. 选择退出虚拟现实。（PS：头戴式设备和操控手柄将自动关闭，电脑上的 SteamVR 应用程序也会关闭。）
