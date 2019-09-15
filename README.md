@@ -5,7 +5,7 @@
 * ### [硬件设备列表](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/%E7%A1%AC%E4%BB%B6%E8%AE%BE%E5%A4%87%E5%88%97%E8%A1%A8.md)    
    * #### [硬件设备列表](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/%E7%A1%AC%E4%BB%B6%E8%AE%BE%E5%A4%87%E5%88%97%E8%A1%A8.md)
 * ### [实验室内部结构]()  
-   * #### [实验室内部全景图](https://pan.baidu.com/s/1VQphzxqkx8r9u6-FfYK5AA)   
+   * #### [实验室内部全景图](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Pictures/13081.jpg)   
    * #### [实验室内部场景建模展示]()
 * ### [网络配置]()
    * #### [固定IP设定列表]()   
