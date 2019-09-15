@@ -34,7 +34,7 @@
    * #### [免责声明和安全操作指引](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matrice_600_Pro_Disclaimer_and_Safety_Guidelines_v1.6_CHS.pdf)
    * #### [快速入门指南](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matrice_600_Pro_Quick_Start_Guide_v1.0_CHS_.pdf)
    * #### [用户手册](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matrice600ProUserManualv1CHS.pdf)
-   * #### [首次飞行视频教学]()
+   * #### [首次飞行视频教学](https://us-videos.dji.net/mgw_backup/djidl-america/cloud/7019bae0b31c779744ecb916efb1de7c/720.mp4)
    * #### [智能飞行电池安全使用指引](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matrice%2B600%2BSeries%2BIntelligent%2BFlight%2BBattery%2BSafety%2BGuidelines%2Bv1.0.pdf)
    * #### [飞行界面介绍](https://content.djiservice.org/academy/faq/?id=728&language=cn)
    * #### [飞行指示灯介绍](https://content.djiservice.org/academy/faq/?id=723&language=cn)
