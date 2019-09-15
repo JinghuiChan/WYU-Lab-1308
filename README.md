@@ -19,6 +19,7 @@
    * #### [VR设备安装教程](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/VR%E8%AE%BE%E5%A4%87%E9%85%8D%E7%BD%AE.md#2)
    * #### [体验测试](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/VR%E8%AE%BE%E5%A4%87%E9%85%8D%E7%BD%AE.md#3)
    * #### [关闭Vive系统](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/VR%E8%AE%BE%E5%A4%87%E9%85%8D%E7%BD%AE.md#4) 
+   * #### [VR设备售后服务]()
 * ### [3D打印机配置]()
 * ### [激光打印机](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/%E6%BF%80%E5%85%89%E6%89%93%E5%8D%B0%E6%9C%BA%E9%85%8D%E7%BD%AE.md) 
    * #### [激光打印机基础信息](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/%E6%BF%80%E5%85%89%E6%89%93%E5%8D%B0%E6%9C%BA%E9%85%8D%E7%BD%AE.md#1) 
@@ -29,6 +30,7 @@
 * ### [手持扫描仪]()
 * ### [全景扫描仪]()
    * #### [使用说明书](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/130HDR%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89.pdf)
+   * #### 售后微信(ccy_toy)
 * ### [大疆无人机](https://www.dji.com/cn/downloads/products/matrice600-pro)
    * #### [物品清单](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matric_600_Pro_%E7%89%A9%E5%93%81%E6%B8%85%E5%8D%95.pdf)
    * #### [免责声明和安全操作指引](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matrice_600_Pro_Disclaimer_and_Safety_Guidelines_v1.6_CHS.pdf)
@@ -40,6 +42,7 @@
    * #### [飞行指示灯介绍](https://content.djiservice.org/academy/faq/?id=723&language=cn)
    * #### [遥控器指示灯](https://content.djiservice.org/academy/faq/?id=724&language=cn)
    * #### [起飞前检查](https://content.djiservice.org/academy/faq/?id=729&language=cn)
+   * #### [售后服务](https://www.dji.com/cn/service/policy?site=brandsite&from=nav)
    
 
 
