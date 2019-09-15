@@ -28,7 +28,19 @@
    * #### [  注...](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/%E6%BF%80%E5%85%89%E6%89%93%E5%8D%B0%E6%9C%BA%E9%85%8D%E7%BD%AE.md#5)
 * ### [手持扫描仪]()
 * ### [全景扫描仪]()
+   * #### [使用说明书](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/130HDR%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89.pdf)
 * ### [大疆无人机]()
+   * #### [物品清单](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matric_600_Pro_%E7%89%A9%E5%93%81%E6%B8%85%E5%8D%95.pdf)
+   * #### [免责声明和安全操作指引](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matrice_600_Pro_Disclaimer_and_Safety_Guidelines_v1.6_CHS.pdf)
+   * #### [快速入门指南](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matrice_600_Pro_Quick_Start_Guide_v1.0_CHS_.pdf)
+   * #### [用户手册](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matrice600ProUserManualv1CHS.pdf)
+   * #### [首次飞行视频教学]()
+   * #### [智能飞行电池安全使用指引](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/Matrice%2B600%2BSeries%2BIntelligent%2BFlight%2BBattery%2BSafety%2BGuidelines%2Bv1.0.pdf)
+   * #### [飞行界面介绍](https://content.djiservice.org/academy/faq/?id=728&language=cn)
+   * #### [飞行指示灯介绍](https://content.djiservice.org/academy/faq/?id=723&language=cn)
+   * #### [遥控器指示灯](https://content.djiservice.org/academy/faq/?id=724&language=cn)
+   * #### [起飞前检查](https://content.djiservice.org/academy/faq/?id=729&language=cn)
+   
 
 
 
