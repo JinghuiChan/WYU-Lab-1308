@@ -27,7 +27,7 @@
    * #### [激光打印机使用方法](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/%E6%BF%80%E5%85%89%E6%89%93%E5%8D%B0%E6%9C%BA%E9%85%8D%E7%BD%AE.md#3)
    * #### [激光打印机售后服务](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/%E6%BF%80%E5%85%89%E6%89%93%E5%8D%B0%E6%9C%BA%E9%85%8D%E7%BD%AE.md#4)  
    * #### [  注...](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/%E6%BF%80%E5%85%89%E6%89%93%E5%8D%B0%E6%9C%BA%E9%85%8D%E7%BD%AE.md#5)
-* ### [手持扫描仪]()
+* ### [手持扫描仪](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/%E6%89%8B%E6%8C%81%E6%89%AB%E6%8F%8F%E4%BB%AA%E9%85%8D%E7%BD%AE.md)
 * ### [全景扫描仪](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/130HDR%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89.pdf)
    * #### [使用说明书](https://github.com/JinghuiChan/WYU-Lab-1308/blob/master/Files/130HDR%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89.pdf)
    * #### [售后微信(ccy_toy)]()
